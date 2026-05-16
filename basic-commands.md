@@ -7,9 +7,9 @@ This repository contains a curated list of Linux commands essential for IT Suppo
 
 ## 📂 1. File & Directory Management
 
-| Command | Description | 
+| Command | Description | Example |
 | :--- | :--- | :--- |
-| `ls -lah` | List all files (including hidden) with human-readable sizes | 
+| `ls -lah` | List all files (including hidden) with human-readable sizes | `ls -lah /var/www` |
 | `pwd` | Print Working Directory (shows your current location). |
 | `cd /path/to/dir` | Change directory to a specific path. |
 | `cd ..` | Move up one level (to the parent directory). |
