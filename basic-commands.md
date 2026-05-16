@@ -10,3 +10,9 @@ This repository contains a curated list of Linux commands essential for IT Suppo
 | Command | Description | Example |
 | :--- | :--- | :--- |
 | `ls -lah` | List all files (including hidden) with human-readable sizes | `ls -lah /var/www` |
+| `pwd` | Print Working Directory (shows your current location). |
+| `cd /path/to/dir` | Change directory to a specific path. |
+| `cd ..` | Move up one level (to the parent directory). |
+| `cd ~` or just `cd` | Move directly to the current user's Home directory. |
+| `cd -` | Switch back to the previous working directory. |
+| `mkdir my_folder1` | create new direcotry | 
