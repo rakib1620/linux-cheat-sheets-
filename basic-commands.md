@@ -23,3 +23,13 @@ This repository contains a curated list of Linux commands essential for IT Suppo
 | `mv old_name new_name` | Move or rename a file or directory |
 | `rm file.txt` | Delete a file permanently |
 | `rm -rf folder_name` | Delete a folder and everything inside it forcefully |
+
+## 2. System Information & Monitoring
+
+| Command | Description |
+| :--- | :--- |
+uname -a | Print all system information (Kernel version, OS architecture) |
+df -h | Show disk space usage in human-readable format |
+free -h | Display available and used memory (RAM) |
+top or htop | Monitor live system processes and resource usage |
+uptime | Show how long the system has been running |
