@@ -3,7 +3,10 @@
 
 This repository contains a curated list of Linux commands essential for IT Support, System Administration, and Cloud Operations. These are specifically tested on **Ubuntu 20.04/22.04** environments.
 
+---
+
 ## 📂 1. File & Directory Management
+
 
 | Command | Description |
 | :--- | :--- |
@@ -25,8 +28,13 @@ This repository contains a curated list of Linux commands essential for IT Suppo
 
 | Command | Description |
 | :--- | :--- |
+uname -a | Print all system information (Kernel version, OS architecture) |
+df -h | Show disk space usage in human-readable format |
+free -h | Display available and used memory (RAM) |
+top or htop | Monitor live system processes and resource usage |
+uptime | Show how long the system has been running |
 |uname -a | Print all system information (Kernel version, OS architecture) |
 |df -h | Show disk space usage in human-readable format |
 |free -h | Display available and used memory (RAM) |
-|top or htop | Monitor live system processes and resource usage |
+|top or htop | Monitor live system and others |
 |uptime | Show how long the system has been running |
