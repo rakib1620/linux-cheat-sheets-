@@ -38,3 +38,12 @@ This repository contains a curated list of Linux commands essential for IT Suppo
 |free -h | Display available and used memory (RAM) |
 |top or htop | Monitor live system and others |
 |uptime | Show how long the system has been running |
+
+## 3. File Permissions & Ownership
+
+| Command | Description |
+| :--- | :--- |
+| `chmod +x script.sh` | Make a script or file executable |
+| `chmod 755 file_name` | Set standard read, write, execute permissions |
+| `chown user:group file` | Change file owner and group ownership |
+| `sudo command` | Run a command with root/administrator privileges |
