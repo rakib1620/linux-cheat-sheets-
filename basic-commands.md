@@ -28,11 +28,11 @@ This repository contains a curated list of Linux commands essential for IT Suppo
 
 | Command | Description |
 | :--- | :--- |
-uname -a | Print all system information (Kernel version, OS architecture) |
-df -h | Show disk space usage in human-readable format |
-free -h | Display available and used memory (RAM) |
-top or htop | Monitor live system processes and resource usage |
-uptime | Show how long the system has been running |
+|uname -a | Print all system information (Kernel version, OS architecture) |
+|df -h | Show disk space usage in human-readable format |
+|free -h | Display available and used memory (RAM) |
+|top or htop | Monitor live system processes and resource usage |
+|uptime | Show how long the system has been running |
 |uname -a | Print all system information (Kernel version, OS architecture) |
 |df -h | Show disk space usage in human-readable format |
 |free -h | Display available and used memory (RAM) |
